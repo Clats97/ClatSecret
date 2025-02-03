@@ -4,6 +4,9 @@
 
 ClatSecret Encryptext Tool v1.00 is a Python-based graphical user interface (GUI) application designed for secure text encryption and decryption using the AES-256 encryption algorithm in CBC (Cipher Block Chaining) mode. Built with Python’s tkinter library for the interface and PyCryptodome for cryptographic operations, the tool is ideal for users who require a simple yet effective means to protect textual data.
 
+
+![clatsecret](https://github.com/user-attachments/assets/09e9833c-c372-45ed-8c76-53a04fbc2eb6)
+
 ________________________________________
 
 **Features**
