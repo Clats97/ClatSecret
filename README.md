@@ -1,13 +1,13 @@
 # ClatSecret
 
-#**Overview**
+**Overview**
 
 ClatSecret Encryptext Tool v1.00 is a Python-based graphical user interface (GUI) application designed for secure text encryption and decryption using the AES-256 encryption algorithm in CBC (Cipher Block Chaining) mode. Built with Python’s tkinter library for the interface and PyCryptodome for cryptographic operations, the tool is ideal for users who require a simple yet effective means to protect textual data.
 
 ________________________________________
 
-#**Features**
-#**Key Management**
+**Features**
+**Key Management**
 - Load Existing Key: Enter a 64-character hexadecimal string (representing a 32-byte key) and load it for encryption or decryption.
 -	Generate New Key: Create a new random AES-256 key, which is displayed in the GUI.
 -	Copy Key: Copy the generated key to your clipboard for easy use elsewhere.
@@ -26,7 +26,7 @@ ________________________________________
 -	Informative Labels and Frames: The interface is divided into clearly defined sections for key management, encryption, and decryption.
 -	Clipboard Integration: Simplifies copying and pasting keys and ciphertext to streamline the user experience.
 ________________________________________
-#**Prerequisites**
+**Prerequisites**
 Before running the tool, ensure you have the following installed:
 •	Python 3.x: You can download it from python.org.
 •	PyCryptodome: Install via pip: 
@@ -35,7 +35,7 @@ pip install pycryptodome
 
 ________________________________________
 
-#**Installation and Setup**
+**Installation and Setup**
 1.	Download or Clone the Repository:
 2.  Install Required Dependencies:
 pip install pycryptodome
@@ -44,9 +44,7 @@ pip install pycryptodome
 ________________________________________
 
 
-#**How It Works**
-
-#**Key Management**
+**How It Works****Key Management**
 •	Loading a Key:
 Enter a 64-character hexadecimal string into the “Load Key” field and click Load Key. The script converts the hex string to bytes and validates that it is exactly 32 bytes long.
 •	Generating a Key:
