@@ -92,7 +92,7 @@ If there are issues with the key format or ciphertext, or if decryption fails, a
 
 ________________________________________
 
-#**Code Structure**
+**Code Structure**
 
 •	AesEncryptionGUI Class:
 
