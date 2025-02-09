@@ -128,4 +128,4 @@ Confirm that all necessary libraries (tkinter and pycryptodome) are properly ins
 
 Copyright 2025 Joshua M Clatney (Clats97) All Rights Reserved
 
-
+**DISCLAIMER: This project comes with no warranty, express or implied. The author is not responsible for abuse, misuse, or vulnerabilities. Please use responsibly and ethically in accordance with relevant laws, regulations, legislation and best practices.**
